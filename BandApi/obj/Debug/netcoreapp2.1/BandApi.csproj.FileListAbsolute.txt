@@ -1,0 +1,14 @@
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/obj/Debug/netcoreapp2.1/BandApi.csprojAssemblyReference.cache
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/obj/Debug/netcoreapp2.1/BandApi.csproj.CoreCompileInputs.cache
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/obj/Debug/netcoreapp2.1/BandApi.RazorAssemblyInfo.cache
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/obj/Debug/netcoreapp2.1/BandApi.RazorAssemblyInfo.cs
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/obj/Debug/netcoreapp2.1/BandApi.AssemblyInfoInputs.cache
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/obj/Debug/netcoreapp2.1/BandApi.AssemblyInfo.cs
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/bin/Debug/netcoreapp2.1/BandApi.deps.json
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/bin/Debug/netcoreapp2.1/BandApi.runtimeconfig.json
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/bin/Debug/netcoreapp2.1/BandApi.runtimeconfig.dev.json
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/bin/Debug/netcoreapp2.1/BandApi.dll
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/bin/Debug/netcoreapp2.1/BandApi.pdb
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/obj/Debug/netcoreapp2.1/BandApi.RazorTargetAssemblyInfo.cache
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/obj/Debug/netcoreapp2.1/BandApi.dll
+/Users/tsl087/Desktop/UniversityWeek/web api/MusicAPI/BandApi/obj/Debug/netcoreapp2.1/BandApi.pdb
